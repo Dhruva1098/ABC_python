@@ -27,7 +27,7 @@ def CalFit(f):
 lb = np.array([0,0])
 ub = np.array([500,500])
 Np = 10;
-T = 50;
+T = 500;
 limit = 5;
 t=0
 f = np.empty((Np,1))
